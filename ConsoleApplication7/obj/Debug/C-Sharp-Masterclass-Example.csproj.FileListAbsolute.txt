@@ -1,0 +1,7 @@
+/Users/peterzaporowski/Desktop/ConsoleApplication7/ConsoleApplication7/bin/Debug/ConsoleApplication7.exe.config
+/Users/peterzaporowski/Desktop/ConsoleApplication7/ConsoleApplication7/bin/Debug/ConsoleApplication7.exe
+/Users/peterzaporowski/Desktop/ConsoleApplication7/ConsoleApplication7/bin/Debug/ConsoleApplication7.pdb
+/Users/peterzaporowski/Desktop/ConsoleApplication7/ConsoleApplication7/obj/Debug/C-Sharp-Masterclass-Example.csprojAssemblyReference.cache
+/Users/peterzaporowski/Desktop/ConsoleApplication7/ConsoleApplication7/obj/Debug/C-Sharp-Masterclass-Example.csproj.CoreCompileInputs.cache
+/Users/peterzaporowski/Desktop/ConsoleApplication7/ConsoleApplication7/obj/Debug/ConsoleApplication7.exe
+/Users/peterzaporowski/Desktop/ConsoleApplication7/ConsoleApplication7/obj/Debug/ConsoleApplication7.pdb
